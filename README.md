@@ -1,6 +1,6 @@
 # Dunne Hall CS Projects Repository
 
-Welcome to the Dunne Hall CS Projects Repository! This repository is dedicated to showcasing and sharing the computer science projects created by students within the Dunne Hall community. Whether you're a beginner or an experienced programmer, this repository provides a platform to collaborate, learn, and inspire others with your projects.
+Welcome to the Dunne Hall CS Projects Repository! This repository is dedicated to showcasing and sharing the computer science projects created by students within the Dunne Hall community. Whether you're a beginner or an experienced programmer, this repository provides a platform to collaborate, learn, and inspire others with your projects. 
 
 ## Table of Contents
 
